@@ -1,7 +1,7 @@
                                                          
 #                                           Ricardo Oliveira 👨‍💻, 18 anos !
 
-<a href="https://www.linkedin.com/in/bruno-pinho-3aa8591a4/" rel="nofollow"><img src="https://camo.githubusercontent.com/4b8f1246b57a4a2580e30b26bec08d4b471a7e22cf8d82d782b8b467e1b0396b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6775737461766f6162656c31302f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/bruno-pinho-3aa8591a4/" style="max-width:100%;"></a>
+<a href="https://www.linkedin.com/in/ricardo-oliveira-373b231b2/" rel="nofollow"><img src="https://camo.githubusercontent.com/4b8f1246b57a4a2580e30b26bec08d4b471a7e22cf8d82d782b8b467e1b0396b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6775737461766f6162656c31302f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/bruno-pinho-3aa8591a4/" style="max-width:100%;"></a>
 
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/5c68c59ed42033bd50ca27da066948711f1892a6cb49ab575fe440ae809e26a3/68747470733a2f2f62616c7461696f2e626c6f622e636f72652e77696e646f77732e6e65742f7374617469632f696d616765732f6461726b2f686f6d652d6865726f2d696c6c757374726174696f6e2e737667"><img src="https://camo.githubusercontent.com/5c68c59ed42033bd50ca27da066948711f1892a6cb49ab575fe440ae809e26a3/68747470733a2f2f62616c7461696f2e626c6f622e636f72652e77696e646f77732e6e65742f7374617469632f696d616765732f6461726b2f686f6d652d6865726f2d696c6c757374726174696f6e2e737667" width="400px" align="right" alt="pinhobrunodev" data-canonical-src="https://baltaio.blob.core.windows.net/static/images/dark/home-hero-illustration.svg" style="max-width:100%;"></a></p>
@@ -13,11 +13,11 @@
 
     . Estudante de Engenharia de Software 🎓
 
-    . Atualmente estou estudando a linguagem Java ☕️💞 
+    . Atualmente estou estudando a linguagem Java ☕️ 
 
     . Sou fascinado em aprender coisas novas 📚
 
-    . Estudando com foco em Java Web 🚀☕️
+    . Front End :D
 
 
 <h3><a id="user-content-languages-and-tools" class="anchor" aria-hidden="true" href="#languages-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Languages and Tools</h3>
@@ -36,12 +36,12 @@
 
 
 
-![Pinhobrundev's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinhobrunodev&theme=dark&show_icons=true) 
+![ricardoliveiraf2m's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardoliveiraf2m&theme=dark&show_icons=true) 
 
 <p align="center">
   
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinhobrunodev&layout=compact&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoliveiraf2m&layout=compact&theme=dark)
 
 
 </p>
@@ -52,5 +52,5 @@
   
   ### Profile Visits
                                      
-![visitors](https://visitor-badge.glitch.me/badge?page_id=pinhbrunodev.pinhobrunodev)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ricardoliveiraf2m.ricardoliveiraf2m)
 </p>
