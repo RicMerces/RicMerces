@@ -1,6 +1,6 @@
 <h1> Olá eu sou Ricardo Oliveira ! 🧑‍💻 </h1>
 
-##Seja Muito Bem-vindo(a) ao meu perfil 
+## Seja Muito Bem-vindo(a) ao meu perfil 
 
 
 
