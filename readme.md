@@ -12,7 +12,8 @@
     <li> ☕️ Tenho Conhecimento em Java </li>
     <li> 😀 Cofundador da ScUpp!</li>
 </ul>
-### GitHub Stats
+
+GitHub Stats
 
 ![RicardoOliveira´s GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardoliveiraof2m&theme=omni&show_icons=true)
 
