@@ -1,2 +1,2 @@
-<h1> Ola eu sou Ricardo Oliveira ! 🧑‍💻 Technologist</h1>
+<h1> Ola eu sou Ricardo Oliveira ! 🧑‍💻 </h1>
 
