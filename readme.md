@@ -1,2 +1,2 @@
-<h1> Ola eu sou Ricardo Oliveira, e você esta no meu perfil do GitHub 🧑‍💻 Technologist</h1>
+<h1> Ola eu sou Ricardo Oliveira ! 🧑‍💻 Technologist</h1>
 
