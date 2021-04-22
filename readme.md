@@ -15,8 +15,6 @@
 
 ### -GitHub Stats
 
-![RicardoOliveira´s GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardoliveiraof2m?theme=gradient)
-![RicardoOliveira´s wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ricardoliveiraof2m)](https://github.com/anuraghazra/github-readme-stats)
 
 ### -Technology
 
