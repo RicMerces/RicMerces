@@ -15,6 +15,6 @@
 
 ###  -GitHub Stats
 
-![RicardoOliveira´s GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardoliveiraof2m&theme=omni&show_icons=true)
+![RicardoOliveira´s GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardoliveiraof2m)
 
 
