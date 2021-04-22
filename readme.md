@@ -7,11 +7,10 @@
 
 
 <ul>
-    <li> 📍  Salvador-BA </li>
-    <li> 🎓 Estudo Engenharia de Software (UCSAL) </li>
-    <li> 🎨 Atualmente foco em aprender FrontEnd + UI&UX </li>
-    <li> ☕️ Tenho Conhecimento em Java </li>
-    <li> 😀 Cofundador da ScUpp!</li>
+    <li> 📍  I'm from Salvador-BA Brazil </li>
+    <li> 🎓 Software Engineering Student (UCSAL) </li>
+    <li> 🎨 My goal is to become a Front End Dev </li>
+    <li> 😀 Co-founder of ScUpp!</li>
 </ul>
 
 ### -GitHub Stats
