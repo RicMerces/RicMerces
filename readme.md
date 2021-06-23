@@ -6,12 +6,13 @@
 
 
 
-<ul>
-    <li> 📍  I'm from Salvador-BA Brazil </li>
-    <li> 🎓 Software Engineering Student (UCSAL) </li>
-    <li> 🎨 My goal is to become a Front End Dev </li>
-    <li> 😀 Co-founder of ScUpp!</li>
-</ul>
+````
+    📍  I'm from Salvador-BA Brazil </li>
+    🎓 Software Engineering Student (UCSAL) </li>
+    🎨 My goal is to become a Front End Dev </li>
+    😀 Co-founder of ScUpp!</li>
+    💾 HTML | CSS | JS | BOOTSTRAP | UI | UX |
+````
 
 ### -GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardoliveiraof2m&show_icons=true&theme=tokyonight) 
