@@ -7,10 +7,10 @@
 
 
 ````
-    📍  I'm from Salvador-BA Brazil </li>
-    🎓 Software Engineering Student (UCSAL) </li>
-    🎨 My goal is to become a Front End Dev </li>
-    😀 Co-founder of ScUpp!</li>
+    📍  I'm from Salvador-BA Brazil 
+    🎓 Software Engineering Student (UCSAL) 
+    🎨 My goal is to become a Front End Dev 
+    😀 Co-founder of ScUpp!
     💾 HTML | CSS | JS | BOOTSTRAP | UI | UX |
 ````
 
