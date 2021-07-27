@@ -14,7 +14,7 @@
 💾 HTML | CSS | JS | BOOTSTRAP | UI | UX | JAVA | DART
 ````
 
-### -GitHub Stats
+
 ![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardoliveiraof2m&show_icons=true) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoliveiraof2m&layout=compact/)](https://github.com/ricardoliveiraof2m/github-readme-stats)
