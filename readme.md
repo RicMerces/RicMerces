@@ -11,7 +11,7 @@
 🎓 Software Engineering | Web Designer
 🎨 My goal is to become a Mobile Dev 
 😀 Co-founder of ScUpp!
-💾 HTML | CSS | JS | BOOTSTRAP | UI | UX | JAVA | DART | FLUTTER
+💾 HTML | CSS | JS | BOOTSTRAP | UI | UX | JAVA |
 ````
 
 
