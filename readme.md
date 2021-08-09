@@ -13,7 +13,7 @@
 😀 Co-founder of ScUpp!
 💾 HTML | CSS | JS | BOOTSTRAP | UI | UX | JAVA | DART
 ````
-
+<a href="https://www.behance.net/ricardo5">Behance</a>
 
 ![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardoliveiraof2m&show_icons=true) 
 
