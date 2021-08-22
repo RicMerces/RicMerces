@@ -11,7 +11,7 @@
 🎓 Software Engineering | UI Designer
 📱  My goal is to become a Mobile Dev 
 😀 Co-founder of ScUpp!
-💾 HTML | CSS | JS | BOOTSTRAP | UI | UX | JAVA | DART | C#
+💾 HTML | CSS | JS | BOOTSTRAP | UI | UX | JAVA | DART |
 ````
 <a href="https://www.behance.net/ricardo5">Behance</a>
 
