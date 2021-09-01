@@ -31,21 +31,21 @@
 
 ### Languages | Libraries | Frameworks
 
-<a><img height="40px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
-<a><img height="40px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
-<a><img height="40px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
-<a><img height="40px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></a>
-<a><img height="40px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>
-<a><img height="40px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"></a>
-<a><img height="40px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></a>
+<a><img height="60px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
+<a><img height="60px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
+<a><img height="60px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
+<a><img height="60px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></a>
+<a><img height="60px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>
+<a><img height="60px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"></a>
+<a><img height="60px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></a>
 
 <hr>
 
 ### Tools
 
-<a><img height="40px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"></a>
-<a><img height="40px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"></a>
-<a><img height="40px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"></a>
-<a><img height="40px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></a>
-<a><img height="40px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
+<a><img height="60px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"></a>
+<a><img height="60px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"></a>
+<a><img height="60px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"></a>
+<a><img height="60px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></a>
+<a><img height="60px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
 
