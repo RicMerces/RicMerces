@@ -45,7 +45,7 @@
 
 <a><img height="40px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"></a>
 <a><img height="40px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"></a>
-<a><img height="40px"  style="max-width:100px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"></a>
+<a><img height="40px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"></a>
 <a><img height="40px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></a>
 <a><img height="40px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
 
