@@ -39,7 +39,7 @@
 <a><img height="60px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"></a>
 <a><img height="60px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></a>
 
-<hr>
+
 
 ## Tools
 
