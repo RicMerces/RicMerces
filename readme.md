@@ -29,7 +29,7 @@
 
 <hr>
 
-### Languages | Libraries | Frameworks
+## Languages | Libraries | Frameworks
 
 <a><img height="60px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
 <a><img height="60px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
@@ -41,7 +41,7 @@
 
 <hr>
 
-### Tools
+## Tools
 
 <a><img height="60px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"></a>
 <a><img height="60px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"></a>
