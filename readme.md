@@ -17,8 +17,8 @@
 
 ### Social
 
-<a href="https://www.linkedin.com/in/ricardo-oliveira-373b231b2/"><img style="height:60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
-<a href="https://www.behance.net/ricardo5"><img style="height:60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg"></a>
+<a href="https://www.linkedin.com/in/ricardo-oliveira-373b231b2/"><img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
+<a href="https://www.behance.net/ricardo5"><img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg"></a>
 
 
 <hr>
@@ -36,17 +36,17 @@
 <img style="height:60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img style="height:60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
 <img style="height:60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-<img style="height:60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-<img style="height:60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+<img height="60px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+<img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 
 <hr>
 
 ### Tools
 
-<img style="height:60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
-<img style="height:60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
-<img style="height:60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg">
-<img style="height:60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+<img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+<img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
+<img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg">
+<img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 
-<img style="height:60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
