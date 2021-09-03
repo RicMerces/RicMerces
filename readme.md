@@ -8,7 +8,7 @@
 
 ````
 📍  I'm from Salvador-BA Brazil 
-🎓 Software Engineering | UI Designer | Front End Dev |
+🎓 Software Engineering | UI Designer | Developer |
 📱  My goal is to become a Mobile Dev 
 😀 Co-founder of ScUpp!
 💾 HTML | CSS | JS | BOOTSTRAP | UI | UX | JAVA | DART | C# | JSON
