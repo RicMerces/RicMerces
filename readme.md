@@ -16,7 +16,7 @@
 <hr>
 
 ### Social
-
+<a href="https://scupp.github.io/scuppoficial/"><img height="60px" src="https://avatars.githubusercontent.com/u/89708654?s=200&v=4"></a>
 <a href="https://www.linkedin.com/in/ricardo-oliveira-373b231b2/"><img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
 <a href="https://www.behance.net/ricardo5"><img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg"></a>
 
