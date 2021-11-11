@@ -14,7 +14,7 @@
 😀 Co-founder of ScUpp!
 👨‍💻 I love CSS
 ````
-<hr>
+
 
 ### About me
 
@@ -23,15 +23,15 @@
 <a href="https://www.behance.net/ricardo5"><img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg"></a>
 
 
-<hr>
+
 
 ![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicMerces&show_icons=true) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicMerces&layout=compact/)](https://github.com/ricardoliveiraof2m/github-readme-stats)
 
-<hr>
 
-## Languages | Libraries | Frameworks
+
+### Languages | Libraries | Frameworks
 
 <a><img height="60px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
 <a><img height="60px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
@@ -43,7 +43,7 @@
 <a><img height="60px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"></a>
 
 
-## Tools
+### Tools
 
 <a><img height="60px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"></a>
 <a><img height="60px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"></a>
