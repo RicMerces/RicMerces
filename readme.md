@@ -9,9 +9,11 @@
 
 ````
 📍  I'm from Salvador-BA Brazil 
-🎓 Software Engineering | UI Designer | Developer |
+🎓 Software Engineering Student
+💻 I am currently a WebDesign intern at DNA for Marketing
 📱  My goal is to become a Mobile Dev 
 😀 Co-founder of ScUpp!
+🎨 I'm a UI & UX Enthusiast in my spare time
 👨‍💻 I love CSS
 ````
 
@@ -50,4 +52,5 @@
 <a><img height="60px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"></a>
 <a><img height="60px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></a>
 <a><img height="60px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
+<a><img height="60px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"></a>
 
