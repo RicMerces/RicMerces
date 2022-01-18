@@ -1,5 +1,4 @@
 
-<a ><img align="center" style="max-width:100px" src="https://media-exp1.licdn.com/dms/image/C4D16AQG-5SjzL0oL8A/profile-displaybackgroundimage-shrink_200_800/0/1633174763930?e=1642032000&v=beta&t=LyWsHp6fq9VDVwDKL6FmExX_LhMLQhmRsIDtwEX1uPg"></a>
 
 
 ### Welcome to my profile <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px" style="max-width:100%;"> 
