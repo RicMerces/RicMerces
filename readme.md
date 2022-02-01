@@ -25,13 +25,6 @@
 
 
 
-
-![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicMerces&show_icons=true) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicMerces&layout=compact/)](https://github.com/ricardoliveiraof2m/github-readme-stats)
-
-
-
 ### Languages | Libraries | Frameworks
 
 <a><img height="60px" style="max-width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
