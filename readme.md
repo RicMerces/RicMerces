@@ -9,7 +9,6 @@
 ````
 📍  I'm from Salvador-BA Brazil 
 🎓 Software Engineering Student
-💻 I am currently a WebDesign intern at DNA for Marketing
 📱  My goal is to become a Mobile Dev 
 😀 Co-founder of ScUpp!
 🎨 I'm a UI & UX Enthusiast in my spare time
