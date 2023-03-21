@@ -1,13 +1,13 @@
-## Olá, eu sou Ric !
+![image](https://user-images.githubusercontent.com/61097674/226641781-cb90c25c-e8dc-4817-88aa-9e4666b4b224.png)
 
 
 ````
 📍  I'm from Salvador-BA Brazil 
 🎓 Software Engineering Student
-📱  My goal is to become a Mobile Dev 
+📱  Mobile Developer 
+🎨 UI/UX Designer
 😀 Co-founder of ScUpp!
-🎨 I'm a UI & UX Enthusiast in my spare time
-👨‍💻 I love CSS
+👨‍💻 I love building the best user experience and comfort
 ````
 
 
@@ -29,21 +29,7 @@
 
 
 
-#### Secondary Skills
 
-
-<a><img height="60px" style="max-width:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
-<a><img height="60px" style="max-width:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
-<a><img height="60px" style="max-width:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
-<a><img height="60px" style="max-width:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></a>
-<a><img height="60px" style="max-width:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>
-<a><img height="60px" style="max-width:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></a>
-<a><img height="60px" style="max-width:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"></a>
-<a><img height="60px" style="max-width:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"></a>
-<a><img height="60px" style="max-width:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"></a>
-<a><img height="60px" style="max-width:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></a>
-<a><img height="60px" style="max-width:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
-<a><img height="60px" style="max-width:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicMerces&layout=compact/)](https://github.com/ricardoliveiraof2m/github-readme-stats)
 
