@@ -2,9 +2,9 @@
 
 
 ````
-📍  I'm from Salvador-BA Brazil 
+📍 I'm from Salvador-BA Brazil 
 🎓 Software Engineering Student
-📱  Mobile Developer 
+📱 Mobile Developer 
 🎨 UI/UX Designer
 😀 Co-founder of ScUpp!
 👨‍💻 I love building the best user experience and comfort
