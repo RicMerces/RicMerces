@@ -1,4 +1,6 @@
-![image](https://github.com/RicMerces/RicMerces/assets/61097674/e7b3c473-dd51-496c-8540-2aa6a479f1ce)
+![image](https://github.com/RicMerces/RicMerces/assets/61097674/d6674d61-2894-4f77-8eaf-53f332b8a421)
+
+
 
 ````
 📍 I'm from Salvador-BA Brazil 
