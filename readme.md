@@ -9,4 +9,3 @@
 ````
 
 
-<a href="https://stardev.io/developers/RicMerces"><img alt="Check out RicMerces's profile on stardev.io" src="https://stardev.io/developers/RicMerces/badge/languages/locality.svg" /></a>
