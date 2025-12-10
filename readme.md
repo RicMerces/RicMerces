@@ -45,17 +45,5 @@
 ---
 
 <div align="center">
-
-### 📫 Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricmerces/?skipRedirect=true)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RicMerces)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ricuxdev@gmail.com)
-
-</div>
-
----
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=RicMerces&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
