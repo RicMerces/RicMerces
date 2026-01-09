@@ -30,20 +30,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RicMerces&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RicMerces&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-[![Check out RicMerces's profile on stardev.io](https://stardev.io/developers/RicMerces/badge/languages/locality.svg)](https://stardev.io/developers/RicMerces)
-
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=RicMerces&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
